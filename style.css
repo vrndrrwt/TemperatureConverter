@@ -1,0 +1,19 @@
+container {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input[type="number"] {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+p {
+    font-weight: bold;
+    margin-top: 20px;
+}
